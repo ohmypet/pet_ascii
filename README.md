@@ -37,3 +37,31 @@ Let's go 💪.
 ```
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/cats)
+
+## Dog
+
+```typescript
+         __
+        /  \
+       / ..|\
+      (_\  |_)
+      /  \@'
+     /     \
+ _  /  `   |
+\\/  \  | _\
+ \   /_ || \\_
+  \____)|_) \_)
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/dogs)
+
+## Fish
+
+```javascript
+  ;,//;,    ,;/
+ o:::::::;;///
+>::::::::;;\\\
+  ''\\\\\'" ';\
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/fish)
