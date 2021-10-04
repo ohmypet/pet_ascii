@@ -38,9 +38,27 @@ Let's go 💪.
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/cats)
 
+```kotlin
+Art by Joan Stark
+           .'\   /`.
+         .'.-.`-'.-.`.
+    ..._:   .-. .-.   :_...
+  .'    '-.(o ) (o ).-'    `.
+ :  _    _ _`~(_)~`_ _    _  :
+:  /:   ' .-=_   _=-. `   ;\  :
+:   :|-.._  '     `  _..-|:   :
+ :   `:| |`:-:-.-:-:'| |:'   :
+  `.   `.| | | | | | |.'   .'
+    `.   `-:_| | |_:-'   .'
+ jgs  `-._   ````    _.-'
+          ``-------''
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/cats)
+
 ## Dog
 
-```typescript
+```swift
          __
         /  \
        / ..|\
@@ -57,7 +75,7 @@ Let's go 💪.
 
 ## Fish
 
-```javascript
+```swift
   ;,//;,    ,;/
  o:::::::;;///
 >::::::::;;\\\
